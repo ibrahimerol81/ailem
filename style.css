@@ -1,0 +1,19 @@
+*{background-color: black;}
+*{text-align: center;}
+*{color: white;}
+
+div {
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 50px;
+    }
+img {
+    border: 5px solid white;
+    width: 100%;
+    }
+
+h1 {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 3rem;
+    }
+
